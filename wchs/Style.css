@@ -1,0 +1,159 @@
+@charset "utf-8";
+html {
+	box-sizing: border-box;
+	background-color: rgba(197,179,88,1.00);
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}body {
+	text-align: center;
+	background-image: -webkit-linear-gradient(270deg,rgba(197,179,88,1.00) 0%,rgba(123,129,29,1.00) 87.56%,rgba(114,123,22,1.00) 98.45%,rgba(0,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(197,179,88,1.00) 0%,rgba(123,129,29,1.00) 87.56%,rgba(114,123,22,1.00) 98.45%,rgba(0,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(197,179,88,1.00) 0%,rgba(123,129,29,1.00) 87.56%,rgba(114,123,22,1.00) 98.45%,rgba(0,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(197,179,88,1.00) 0%,rgba(123,129,29,1.00) 87.56%,rgba(114,123,22,1.00) 98.45%,rgba(0,0,0,1.00) 100%);
+	color: rgba(3,3,3,1.00);
+}
+.WCHSImg {
+	width: 100%;
+	height: 298px;
+
+}
+
+.Title1 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 5em;
+	text-decoration: none;
+	text-shadow: 5px 0px rgba(197,179,88,1.00);
+	text-transform: none;
+}
+
+
+body h3 {
+	text-align: center;
+}
+.MorningHSow {
+	text-decoration: underline;
+	text-shadow: 2px 0px 0px rgba(223,195,55,1.00);
+}
+
+body p {
+	text-align: center;
+}
+body img1 {
+}
+body img2 {
+}
+body img3 {
+}
+body img4 {
+}
+body img5 {
+}
+body img6 {
+}
+body img7 {
+}
+body img8 {
+}
+body img9 {
+}
+body img10 {
+}
+body table {
+}
+.Stafftable {
+
+}
+
+
+body Morning Show {
+	left: 2em;
+	right: 2em;
+	top: 2em;
+	padding-left: 0%;
+	text-align: center;
+	bottom: 2em;
+}
+body img SS {
+
+
+}
+@keyframes slider {
+	
+	0%{
+		left: 0;
+	}
+	
+	20%{
+		left: 0;
+	}
+	
+	25%{
+		left: -100%;
+	}
+	
+	45%{
+		left:-100%;
+	}
+	
+	50%{
+		left:-200%;
+	}
+	
+	70%{
+		left: -200%;
+	}
+	
+	75%{
+		left: -300%;
+	}
+	
+	95{
+		left: -300%;
+	}
+	
+	100%{
+		left: -400%;
+	}
+}
+.bodyimgFSPA {
+	color: rgba(249,249,249,1.00);
+}
+.Linktable {
+}
+.WCHSteam {
+	text-shadow: 4px 0px 1px rgba(215,190,64,1.00);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (orientation:landscape){
+}
+.bodyimgFSPA {
+}
+.Title1 {
+}
+.WCHSImg {
+}
+.Linktable {
+}
+.Stafftable {
+}
+.MorningHSow {
+}
+.WCHSteam {
+}
